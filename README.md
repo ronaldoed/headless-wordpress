@@ -40,7 +40,7 @@ cim stack-up
 This creates an [Elastic Container Service](https://aws.amazon.com/ecs/) that our EC2's will run in.
 > Amazon Elastic Container Service (Amazon ECS) is a highly scalable, high-performance container orchestration service that supports Docker containers and allows you to easily run and scale containerized applications on AWS.
 ```
-cd vpc
+cd ecs
 cim stack-up
 ```
 
