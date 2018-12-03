@@ -81,35 +81,35 @@ Mappings:
 
   AWSRegionToAMI:
     us-east-2:
-      AMI: ami-64300001
+      AMI: ami-0a0c6574ce16ce87a
     us-east-1:
-      AMI: ami-aff65ad2
+      AMI: ami-07eb698ce660402d2
     us-west-2:
-      AMI: ami-40ddb938
+      AMI: ami-09568291a9d6c804c
     us-west-1:
-      AMI: ami-69677709
+      AMI: ami-04c22ba97a0c063c4
     eu-west-3:
-      AMI: ami-250eb858
+      AMI: ami-0a0948de946510ec0
     eu-west-2:
-      AMI: ami-2218f945
+      AMI: ami-0cb31bf24b130a0f9
     eu-west-1:
-      AMI: ami-2d386654
+      AMI: ami-066826c6a40879d75
     eu-central-1:
-      AMI: ami-9fc39c74
+      AMI: ami-0b9fee3a2d0596ed1 	
     ap-northeast-2:
-      AMI: ami-9d56f9f3
+      AMI: ami-0b52e57bed048ca48
     ap-northeast-1:
-      AMI: ami-a99d8ad5
+      AMI: ami-0edf19001c48838c7
     ap-southeast-2:
-      AMI: ami-efda148d
+      AMI: ami-08c26730c8ee004fa
     ap-southeast-1:
-      AMI: ami-846144f8
+      AMI: ami-08d4fe232c67b81b8
     ca-central-1:
-      AMI: ami-897ff9ed
+      AMI: ami-055750f063052ec55
     ap-south-1:
-      AMI: ami-72edc81d
+      AMI: ami-05f009513cd58ac90
     sa-east-1:
-      AMI: ami-4a7e2826
+      AMI: ami-0ada25501ac1375b3
 
 Resources:
 
